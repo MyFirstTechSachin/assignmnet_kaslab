@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node readAndClassify.js",
-    "save": "node saveToFile.js",
+    "start": "node challenge_b.js",
+    "save": "node challenge_a.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
